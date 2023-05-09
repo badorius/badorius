@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! Sometimes I'm badorius 👋
+
+🔭 I’m currently working on [castelscape](https://github.com/badorius/castlescape) 
+
+🌱 Love learning and make writeups [vulnhub](https://github.com/badorius/vulnhub)
 
 <!--
 **badorius/badorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
