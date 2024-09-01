@@ -1,5 +1,7 @@
 ### Hi there! Sometimes I'm badorius 👋
 
+🔭 I’m currently working on [Vampurr](https://github.com/badorius/Vampurr) 
+
 🔭 I’m currently working on [TouchTheLight](https://github.com/badorius/TouchTheLight)
 
 🔭 I’m currently working on [castelscape](https://github.com/badorius/castlescape) 
