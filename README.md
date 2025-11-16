@@ -1,12 +1,12 @@
 ### Hi there! Sometimes I'm badorius 👋
 
-🔭 I’m currently working on [Vampurr](https://github.com/badorius/Vampurr) 
+🔭 I’m currently working on [Vampurr](https://github.com/badorius/Vampurr) retro Game made with Godot
 
-🔭 I’m currently working on [TouchTheLight](https://github.com/badorius/TouchTheLight)
+🔭 I’m currently working on [TouchTheLight](https://github.com/badorius/TouchTheLight) Game made with Godot
 
-🔭 I’m currently working on [castelscape](https://github.com/badorius/castlescape) 
+🔭 I’m currently working [castelscape](https://github.com/badorius/castlescape) Game made in Python 
 
-🌱 Love learning and make writeups [vulnhub](https://github.com/badorius/vulnhub)
+🌱 Love learning and make writeups [vulnhub](https://github.com/badorius/vulnhub) 
 
 <!--
 **badorius/badorius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
