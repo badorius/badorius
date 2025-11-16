@@ -1,12 +1,12 @@
 ### Hi there! Sometimes I'm badorius 👋
 
-- 🔭 I’m currently working on [myarch](https://github.com/badorius/myarch) unattended installation of my archlinux 
+🔭 I’m currently working on [myarch](https://github.com/badorius/myarch) unattended installation of my archlinux 
+
+🔭 I’m currently working [castelscape](https://github.com/badorius/castlescape) Game made in Python 
 
 🔭 I’m currently working on [Vampurr](https://github.com/badorius/Vampurr) retro Game made with Godot
 
 🔭 I’m currently working on [TouchTheLight](https://github.com/badorius/TouchTheLight) Game made with Godot
-
-🔭 I’m currently working [castelscape](https://github.com/badorius/castlescape) Game made in Python 
 
 🌱 Love learning and make writeups [vulnhub](https://github.com/badorius/vulnhub) 
 
