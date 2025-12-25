@@ -4,7 +4,7 @@
 
 🔭 I’m currently working [castelscape](https://github.com/badorius/castlescape) Game made in Python 
 
-🔭 I’m currently working on [Vampurr][(https://github.com/badorius/Vampurr](https://www.badorius.com/Vampurr/Vampurr.html) retro Game made with Godot
+🔭 I’m currently working on [Vampurr][(https://github.com/badorius/Vampurr) retro Game made with Godot
 
 🔭 I’m currently working on [TouchTheLight](https://github.com/badorius/TouchTheLight) Game made with Godot
 
